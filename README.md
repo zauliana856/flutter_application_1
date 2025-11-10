@@ -1,16 +1,35 @@
-# flutter_application_1
+Finance Mate App
 
-A new Flutter project.
+This project is a modern Flutter-based finance management application that helps users track income, expenses, and balances easily.
+It features a clean UI, smooth navigation, and a beautiful splash screen to enhance the user experience.
 
-## Getting Started
+👥 Group Members
 
-This project is a starting point for a Flutter application.
+Nama: Zahra Auliana
+NIM: 232101224
+Kelas/Kelompok: TIF RP23I
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Design Theme
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Font: Poppins
+
+Colors: Deep Orange → Light Peach Gradient (#FF7043 → #FFAB91)
+
+Style: Modern Flat + Smooth Animation
+
+Framework: Flutter (Dart)
+
+🖥️ Features
+
+Splash Screen with logo and tagline
+
+Home Screen showing total balance and recent transactions
+
+Responsive design for multiple devices
+
+Simple and elegant UI for daily finance tracking
+
+tracking
+
+📸Screenshots
